@@ -133,5 +133,8 @@
 	},
 	"1.1.27": {
 		"en": "Don't rely on the initial VW API call to start polling"
+	},
+	"1.1.28": {
+		"en": "Temporary replace range timestamp because of broken API response"
 	}
 }
