@@ -136,5 +136,8 @@
 	},
 	"1.1.28": {
 		"en": "Temporary replace range timestamp because of broken API response"
+	},
+	"1.1.29": {
+		"en": "Allow flows to run on multiple devices"
 	}
 }
